@@ -1,0 +1,16 @@
+.DS_Store
+.tokensave
+node_modules/
+
+# The source video stays out of the repo.
+jazz.mp4
+
+# Working media — large, and regenerable from the build scripts.
+# The site's own audio (audio/*.mp3) is committed and unaffected by these.
+*.wav
+site-assets/
+tune-16-24/*.mp3
+tune-16-24/stems/
+tune-16-24/versions/*.mp3
+tune-16-24/versions/stems_*/
+.claude/
