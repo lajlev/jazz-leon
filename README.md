@@ -1,10 +1,10 @@
-# Malon — eight seconds on an old keyboard
+# Leon — eight seconds on an old keyboard
 
 My nephew was jamming on an old keyboard. My in-laws posted a video of it, and
 eight seconds of it sounded genuinely like a jazz melody. I pulled those eight
 seconds out, worked out what they had played, and built a band underneath it.
 
-**→ [lajlev.github.io/jazz-malon](https://lajlev.github.io/jazz-malon/)**
+**→ [lajlev.github.io/jazz-leon](https://lajlev.github.io/jazz-leon/)**
 
 ## What's here
 
